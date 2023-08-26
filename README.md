@@ -14,7 +14,7 @@ To achieve this, we will implement a classification model that will help Thera B
 
 Finally, we will generate a set of insights and recommendations that will help the bank reduce credit card customer churn.
 
-![](https://i.imgur.com/Qja2ejj.jpg)
+![](https://i.imgur.com/cJDIM9N.jpg)
 
 # Important Questions to answer:
 
