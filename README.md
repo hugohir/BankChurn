@@ -1,5 +1,9 @@
 # Credit Card Churn: A Model to Identify Customers that will attrite the Credit Card Service
 
+Feb 12 2023 | Hugo Hiraoka | <hhiraokawatts@gmail.com>
+
+A classification model that compares performance using Logistic Regression, Decision Trees, Random Forest, Bagging, Gradient Boosting, Adaboost, and Xgboost, and performs hyperparameter tuning using Randomized Search. 
+
 # Context
 
 Thera Bank has seen a steep decline in the number of users of its credit cards. Like other banks, credit cards are also a good source of income for Thera Bank because they generate revenue by collecting annual fees, balance transfer fees, cash advance fees, late payment fees, foreign transaction fees, and others.
