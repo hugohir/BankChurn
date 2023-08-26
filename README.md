@@ -1,4 +1,4 @@
-# Credit Card Churn: A Model to Identify Customers that will attrite the Credit Card Service
+# Credit Card Churn: Predicting Customers that will attrite their Credit Card Service
 
 Feb 12 2023 | Hugo Hiraoka | <hhiraokawatts@gmail.com>
 
