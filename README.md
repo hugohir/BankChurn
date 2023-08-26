@@ -1,10 +1,10 @@
-# Predicting Customers that will attrite their Credit Card Service
+## Predicting Customers that will attrite their Credit Card Service
 
 Feb 12 2023 | Hugo Hiraoka | <hhiraokawatts@gmail.com>
 
 A classification model that compares classification performance using Logistic Regression, Decision Trees, Random Forest, Bagging, Gradient Boosting, Adaboost, and Xgboost, and performs hyperparameter tuning using Randomized Search. This is a supervised learning model.
 
-# Context
+## Context
 
 Thera Bank has seen a steep decline in the number of users of its credit cards. Like other banks, credit cards are also a good source of income for Thera Bank because they generate revenue by collecting annual fees, balance transfer fees, cash advance fees, late payment fees, foreign transaction fees, and others.
 
@@ -16,7 +16,7 @@ Finally, we will generate a set of insights and recommendations that will help t
 
 ![](https://i.imgur.com/cJDIM9N.jpg)
 
-# Important Questions to answer:
+## Important Questions to answer:
 
 What kind/type of Credit Card customers churn?
 What things in common do these Credit Card customers have?
