@@ -18,7 +18,7 @@ Finally, we will generate a set of insights and recommendations that will help t
 
 ## Important Questions to answer:
 
-What kind/type of Credit Card customers churn?
-What things in common do these Credit Card customers have?
-Why do these Credit Card customers churn?
-What can be improved to decrease Credit Card customer churn?
+- What kind/type of Credit Card customers churn?
+- What things in common do these Credit Card customers have?
+- Why do these Credit Card customers churn?
+- What can be improved to decrease Credit Card customer churn?
