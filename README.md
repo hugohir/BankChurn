@@ -2,7 +2,7 @@
 
 Feb 12 2023 | Hugo Hiraoka | <hhiraokawatts@gmail.com>
 
-A classification model that compares classification performance using Logistic Regression, Decision Trees, Random Forest, Bagging, Gradient Boosting, Adaboost, and Xgboost, and performs hyperparameter tuning using Randomized Search. This is a supervised learning model.
+Classification models to predict credt card customer attrition using Logistic Regression, Decision Trees, Random Forest, Bagging, Gradient Boosting, Adaboost, and Xgboost, and performs hyperparameter tuning using Randomized Search. This is a supervised learning model.
 
 ### Context
 
