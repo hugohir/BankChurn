@@ -1,4 +1,4 @@
-## Predicting Credit Card Attrition
+## Predicting Credit Card Customer Attrition
 
 Feb 12 2023 | Hugo Hiraoka | <hhiraokawatts@gmail.com>
 
