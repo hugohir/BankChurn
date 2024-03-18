@@ -6,11 +6,11 @@ Classification models to predict credt card customer attrition using Logistic Re
 
 ### Context
 
-Thera Bank has seen a steep decline in the number of users of its credit cards. Like other banks, credit cards are also a good source of income for Thera Bank because they generate revenue by collecting annual fees, balance transfer fees, cash advance fees, late payment fees, foreign transaction fees, and others.
+First National Bank has seen a steep decline in the number of users of its credit cards. Like other banks, credit cards are also a good source of income for Thera Bank because they generate revenue by collecting annual fees, balance transfer fees, cash advance fees, late payment fees, foreign transaction fees, and others.
 
 When a credit card customer leaves, the bank will lose that revenue source, so it is very important that the bank implements measures to avoid losing those customers.
 
-To achieve this, we will implement a classification model that will help Thera Bank improve its services so credit card customers do not leave the service.
+To achieve this, we will implement a classification model that will help First National Bank improve its services so credit card customers do not leave the service.
 
 Finally, we will generate a set of insights and recommendations that will help the bank reduce credit card customer churn.
 
