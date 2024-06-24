@@ -1,1 +1,1 @@
-[render HTML version : Credit Card Customer Churn Prediction](https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/hugohiraoka/Credit_Card_Customer_Churn_Prediction/blob/main/html/Credit_Card_Customer_Churn_Prediction.html)
+[render HTML version : Credit Card Customer Churn Prediction](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Credit_Card_Customer_Churn_Prediction/blob/main/html/Credit_Card_Customer_Churn_Prediction.html)
